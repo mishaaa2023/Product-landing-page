@@ -1,10 +1,9 @@
-"client side"
+"use client"
 import React from 'react'
 import Navbar from "./components/Navbar/page";
 import Card from "./components/Card/page";
 import Contact from "./components/Contact/page";
 import Image from 'next/image'
-import { createContext } from 'react';
 import { motion } from 'framer-motion'
 import Footer from './components/Footer/page';
 
