@@ -18,9 +18,10 @@ const Card = () => {
     <>
      <h1 className='mt-5 text-center lobster-regular  text-4xl'>Benefits</h1>
     <section className='flex flex-wrap p-3 gap-2 items-center justify-around mt-7'>
-      {benefits.map(({img,heading,desc})=>{
+      {benefits.map(({img,heading,desc,id})=>{
         return(
             <motion.div 
+            key={id}
             initial={{ y: -10 }}
             animate={{ y: 10 }}
             transition={{
