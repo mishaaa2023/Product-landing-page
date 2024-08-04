@@ -1,4 +1,4 @@
-"use client"
+"client side"
 import React from 'react'
 import Navbar from "./components/Navbar/page";
 import Card from "./components/Card/page";
