@@ -31,7 +31,7 @@ const Card = () => {
               repeat: Infinity,
               repeatType: "reverse"
             }}
-            className=" shadow-md rounded-lg overflow-hidden w-[20rem] py-4"style={{backgroundColor:"#f7d474"}}>
+            className=" shadow-md rounded-lg overflow-hidden w-[20rem] h-[32rem] py-4"style={{backgroundColor:"#f7d474"}}>
         <img
           className="w-full sm:h-64 object-contain py-4 my-5"
           src={img}

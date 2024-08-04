@@ -20,7 +20,7 @@ const page = () => {
             <p class="mb-8 leading-relaxed text-black">The solution to all your grilling problems! The mat can be easily trimmed to fit your specific grill or oven, making it a versatile tool for any cooking enthusiast. Embrace healthier, cleaner, and more efficient grilling with the Non-Stick BBQ Grill Mat.</p>
             <div class="flex justify-center">
 
-              <button class="inline-flex items-center text-black text-white border-0 py-2 px-6 focus:outline-none hover:bg-white hover:text-black hover:border-4 hover:border-black rounded text-base mt-4 md:mt-0">Add to Cart
+              <button class="inline-flex items-center text-white bg-black  border-0 py-2 px-6 focus:outline-none hover:bg-white hover:text-black hover:border-4 hover:border-black rounded text-base mt-4 md:mt-0 transition-all ease-in 1.2s font-bold">Add to Cart
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-1" viewBox="0 0 24 24">
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
                 </svg>
