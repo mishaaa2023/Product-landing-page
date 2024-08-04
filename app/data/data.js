@@ -15,13 +15,13 @@ export const benefits=[
     },
     {
         id:'3',
-        img:'card-img1.jpeg',
+        img:'card-img4.jpeg',
         heading:"Portable",
         desc:"Lightweight and portable, it's perfect for picnics, camping trips, and backyard gatherings.",
 
     },
     {
-        id:'1',
+        id:'4',
         img:'card-img3.jpeg',
         heading:"CleanUp",
         desc:"Thanks to its easy-to-clean, reusable design, you can enjoy hassle-free cooking and quick cleanup.",
