@@ -69,7 +69,7 @@ const page = () => {
 
       </motion.div>
       <br/>
-
+      <br/>
       {/* //benefits */}
       <Card />
 
