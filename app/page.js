@@ -68,6 +68,7 @@ const page = () => {
         </motion.div>
 
       </motion.div>
+      <br/>
 
       {/* //benefits */}
       <Card />
